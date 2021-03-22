@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  RecipeApp
 //
-//  Created by Nakul Tirumalai on 3/19/21.
+//  Created by Anupama Kurudi on 3/19/21.
 //  Copyright © 2021 AnupamaKurudi. All rights reserved.
 //
 
